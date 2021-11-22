@@ -1,0 +1,11 @@
+{
+  "resourceName": "s33b6adb58",
+  "bucketName": "importeduathdbd73394a2014aafa043633049e42ffe",
+  "policyUUID": "4aa5345b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ]
+}
